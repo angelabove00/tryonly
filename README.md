@@ -9,4 +9,6 @@ This project includes features for tracking employees, login sessions, attendanc
 - Git & GitHub
 
 ## Authors
-Angela Mae Ortega
+  Angela Mae Ortega<br />
+  Adrian San Juan<br />
+  Aristides Panlilio<br />
