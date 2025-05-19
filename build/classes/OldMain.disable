@@ -34,3 +34,11 @@ public class Main {
         System.out.println("\n\n\nLogin Time: " + sid.getLoginTime());
     }
 }
+
+    //initialise the classes
+    public Employee emp = new Employee();
+    public Attendance att = new Attendance();
+    public Deductions ded = new Deductions();
+    public Payroll pay = new Payroll();
+    public LoginSession sID = new LoginSession();
+    sID.setLoginTime(LocalTime.now());
