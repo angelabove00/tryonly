@@ -7,7 +7,6 @@ public class LoginSession {
     public void setLoginTime(LocalTime loginTime) { this.loginTime = loginTime; }
 
     public boolean isLateLogin() {
-        // TODO: implement grace‑period logic
         return false;
     }
 }

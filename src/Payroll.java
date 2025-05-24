@@ -7,7 +7,6 @@ public class Payroll {
     private double loanRepayments;
     private Deductions deductions;
 
-    // Setters & getters for fields used in Main
     public void setTotalHoursWorked(double h) { this.totalHoursWorked = h; }
     public double getTotalHoursWorked() { return totalHoursWorked; }
 

@@ -7,7 +7,6 @@ public class Attendance {
     private LocalTime timeIn;
     private LocalTime timeOut;
 
-    // Getter & setter for date
     public LocalDate getDate() { return date; }
     public void setDate(LocalDate date) { this.date = date; }
 
