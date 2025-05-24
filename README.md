@@ -1,12 +1,20 @@
 # MotorPH Employee App
 
-A simple Java-based payroll and employee attendance system for MotorPH.  
-This project includes features for tracking employees, login sessions, attendance, payroll calculations, and deductions.
+A Java Swing-based desktop application for managing employee data, attendance, and payroll.
 
-## Technologies Used
-- Java
-- VS Code
-- Git & GitHub
+# Features
+- Add, edit, and view employee records
+- Record daily attendance
+- Calculate gross and net salaries
+- Simple, consistent interface using Java Swing
+
+# Technologies
+- Java (Swing GUI)
+- NetBeans GUI Builder (Matisse)
+- Local in-memory data storage
+
+# How to Run
+1. Clone the repository:
 
 ## Authors
   Angela Mae Ortega<br />
