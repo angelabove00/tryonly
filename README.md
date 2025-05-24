@@ -2,11 +2,11 @@
 
 A Java Swing-based desktop application for managing employee data, attendance, and payroll.
 
-# Features
-- Add, edit, and view employee records
-- Record daily attendance
-- Calculate gross and net salaries
-- Simple, consistent interface using Java Swing
+
+## Features
+- Add and manage employees
+- Log attendance with timestamps
+- Compute payroll with gross and net salary breakdown
 
 # Technologies
 - Java (Swing GUI)
